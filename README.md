@@ -3,7 +3,9 @@ Built an app that posts user-generated location information to a shared map, pul
 
 Needs Config.swift file with parse ID and key.
 
+```swift
 struct Config {
     static var parseID = ""
     static var parseAPIKey = ""
 }
+```
